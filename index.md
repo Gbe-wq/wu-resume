@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Gbe-wq/wu-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gbe-wq/wu-resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###个人简历
+####个人信息
+姓    名	：吴宜懋
+民    族	：苗族
+电    话	：17352845171
+邮    箱：1203165739@qq.com
+出生年月：1999.2.24	
+毕业院校	：湖南工商大学北津学院
+学    历	：本科
+住址：湖南省长沙市岳麓区
+###教育背景
+####2017.09-20021.06         湖南工商大学北津学院         专业：信息与计算科学        学历：本科
+主修课程：
+高等代数，高等数学，数学分析，Java程序设计，C语言程序设计，MATLAB科学计算编程语言，应用软件开发基础，操作系统基本原理，数据库原理，数据结构
+###专业技能
+####1、熟练掌握JEE，JSE，熟练Java面向对象编程，具有良好的规范代码编写习惯
+####2、熟练运用mysql，oracle数据库语句，能处理简单的单表语句操作和多表复杂操作
+####3、熟练jsp,servlet,jquery,熟练掌握html+css+js前端技术，了解Ajax技术
+####4、熟练掌握MyEclipse、Eclipse等开发工具，熟悉tomcat服务器配置
+####5、了解spring框架
+###项目经历
+####项目名称：orange网页服装商城    
+使用技术：js,jquery,css,jsp,servlet,echarts,html5,连接池，ajax
+负责模块：负责商城后台的商品管理，销售数据统计。采用jsp, servlet技术将数据库中的数据渲染到网页，实现了基本的增，删，查，改，分页，文件上传等基本功能，还学习采用了echarts插件绘制动态统计图，可以统计各种商品的销售数据，用户消费数据等，方便销售人员得到及时的数据从而进行更优化的业务销售。
+项目名称：小型零食购物系统
+使用技术：JFrame组件，JPanel，JLabel，监听器
+负责模块：商品分类模块，零食、海鲜模块的设计与实现。采用JFrame组件，将用户在UI用户界面上输入的数据与数据库的数据进行比较查询，再在JFrame上显示出来。
+###求职意向
+####工作性质：全职                      意向职位：Java软件工程师                      期望资薪：面议
+###自我评价
+####本人对Java兴趣浓厚，经常浏览相关行业新闻，动态。具有独立的计算机语言思考能力，能独立思考解决出现的一些问题。有较强的团队意识和合作精神，能与团队成员融洽交流沟通，执行能力强，能吃苦耐劳。
